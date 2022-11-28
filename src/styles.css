@@ -1,2 +1,7 @@
 /* Add application styles & imports to this file! */
 @import '~bootstrap/dist/css/bootstrap.min.css';
+
+.div1 {
+  border: solid 2px;
+  margin: 2px;
+}
