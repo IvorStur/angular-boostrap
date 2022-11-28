@@ -1,3 +1,9 @@
 /* .div1 {
   border: 3px;
 } */
+
+div {
+  border: solid 2px;
+  margin: 2px;
+  /* float: left; */
+}
